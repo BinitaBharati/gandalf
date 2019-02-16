@@ -2,7 +2,7 @@
 Gandalf is a distributed and highly available log aggregator service.
 
 # Architecture
-![Alt text](docs/gandalf.png "Architecture") <br />
+![Alt text](docs/images/gandalf.png "Architecture") <br />
 
 
 # Build
